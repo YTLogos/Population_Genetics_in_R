@@ -39,12 +39,12 @@ navbar:
           href: "intro_vcf.html"
         - text: "Reading VCF data"
           href: "reading_vcf.html"
-        - text: "Quality control"
-          href: "qc.html"
         - text: "Analysis of genomic data"
           href: "analysis_of_genome.html"
         - text: "Analysis of GBS data"
           href: "gbs_analysis.html"
+        - text: "Clustering plot"
+          href: "clustering_plot.html"
     - text: "Workshop"
       menu:
         - text: "Workshop"
@@ -53,6 +53,8 @@ navbar:
           href: "intro_vcf.html"
         - text: "VCF data"
           href: "reading_vcf.html"
+        - text: "Quality control"
+          href: "quality_control.html"
         - text: "Analysis of GBS data"
           href: "gbs_analysis.html"
         - text: "Analysis of genome data"
@@ -69,6 +71,8 @@ navbar:
           href: "Data_sets.html"
         - text: "Function glossary"
           href: "funpendix.html"
+        - text: "Background_functions"
+          href: "background_functions.html"
         - text: "Source Code"
           href: https://github.com/grunwaldlab/Population_Genetics_in_R/
 output:
